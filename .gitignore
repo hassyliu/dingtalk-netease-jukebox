@@ -1,0 +1,5 @@
+desktop/bin/
+desktop/obj/
+.vs/
+*.user
+*.exe
